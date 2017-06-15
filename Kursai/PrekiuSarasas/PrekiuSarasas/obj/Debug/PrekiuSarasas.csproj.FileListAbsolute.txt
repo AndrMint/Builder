@@ -1,0 +1,13 @@
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\PrekiuSarasas.exe.config
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\Prekes.db
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\PrekiuSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\PrekiuSarasas.pdb
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\bin\Debug\System.Data.SQLite.xml
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.MainForm.resources
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.Naujas.resources
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.Properties.Resources.resources
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.csproj.GenerateResource.Cache
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\PrekiuSarasas\PrekiuSarasas\obj\Debug\PrekiuSarasas.pdb

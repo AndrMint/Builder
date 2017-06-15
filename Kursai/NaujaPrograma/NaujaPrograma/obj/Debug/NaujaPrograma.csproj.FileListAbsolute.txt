@@ -1,0 +1,6 @@
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\bin\Debug\NaujaPrograma.exe.config
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\bin\Debug\NaujaPrograma.exe
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\bin\Debug\NaujaPrograma.pdb
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\obj\Debug\NaujaPrograma.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\obj\Debug\NaujaPrograma.exe
+C:\Users\Svecias\Desktop\Kursai\NaujaPrograma\NaujaPrograma\obj\Debug\NaujaPrograma.pdb

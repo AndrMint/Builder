@@ -1,0 +1,6 @@
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\bin\Debug\05-23PirmaPaskaita.exe.config
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\bin\Debug\05-23PirmaPaskaita.exe
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\bin\Debug\05-23PirmaPaskaita.pdb
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\obj\Debug\05-23PirmaPaskaita.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\obj\Debug\05-23PirmaPaskaita.exe
+C:\Users\Svecias\Desktop\Kursai\05-23PirmaPaskaita\05-23PirmaPaskaita\obj\Debug\05-23PirmaPaskaita.pdb

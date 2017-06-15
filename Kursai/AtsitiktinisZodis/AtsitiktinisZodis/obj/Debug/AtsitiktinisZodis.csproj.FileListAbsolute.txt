@@ -1,0 +1,8 @@
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\bin\Debug\AtsitiktinisZodis.exe.config
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\bin\Debug\AtsitiktinisZodis.exe
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\bin\Debug\AtsitiktinisZodis.pdb
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\obj\Debug\AtsitiktinisZodis.Form1.resources
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\obj\Debug\AtsitiktinisZodis.Properties.Resources.resources
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\obj\Debug\AtsitiktinisZodis.csproj.GenerateResource.Cache
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\obj\Debug\AtsitiktinisZodis.exe
+C:\Users\Svecias\Desktop\Kursai\AtsitiktinisZodis\AtsitiktinisZodis\obj\Debug\AtsitiktinisZodis.pdb

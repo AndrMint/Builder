@@ -1,0 +1,11 @@
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\bin\Debug\GrafinesSasajosGal.exe.config
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\bin\Debug\GrafinesSasajosGal.exe
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\bin\Debug\GrafinesSasajosGal.pdb
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.Form1.resources
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.Properties.Resources.resources
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.csproj.GenerateResource.Cache
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.exe
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.pdb
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.Kitas.resources
+C:\Users\Svecias\Desktop\Kursai\GrafinesSasajosGal\GrafinesSasajosGal\obj\Debug\GrafinesSasajosGal.VardoVedimas.resources

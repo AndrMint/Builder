@@ -1,0 +1,13 @@
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\ZodziuSarasas.exe.config
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\ZodziuSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\ZodziuSarasas.pdb
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.MainForm.resources
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.Naujas.resources
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.Properties.Resources.resources
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.csproj.GenerateResource.Cache
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\obj\Debug\ZodziuSarasas.pdb
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\Pradzia.db
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Svecias\Desktop\Kursai\ZodziuSarasas\ZodziuSarasas\bin\Debug\System.Data.SQLite.xml

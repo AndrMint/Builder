@@ -1,0 +1,26 @@
+Vidurkio apskaiciavimas/Pusmecio apskaiciavimas
+
+Geog.
+Mat.
+Info.
+Dail.
+Liet.k.
+Ist.
+Fiz.
+Kun.k
+
+pasirekama pamoka
+ivedami pazymiai, tada jie susumuojami tada padalinami is pazymiu skaiciaus
+
+
+
+
+
+
+parasyti klase
+su 5 kintamaisiais (atributai)
+bent 2 konstruktoriu (default ir su parametrais)
+bent 2 kiti metodai (ivedimui su klaviatura, duomenu isvedimui, kazkokiam apskaiciavimui)
+
+
+

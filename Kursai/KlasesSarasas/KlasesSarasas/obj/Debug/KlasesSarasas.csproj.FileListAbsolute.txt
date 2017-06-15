@@ -1,0 +1,11 @@
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\bin\Debug\KlasesSarasas.exe.config
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\bin\Debug\KlasesSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\bin\Debug\KlasesSarasas.pdb
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.Form1.resources
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.Properties.Resources.resources
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.csproj.GenerateResource.Cache
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.exe
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.pdb
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.NaujasAuto.resources
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.csprojResolveAssemblyReference.cache
+C:\Users\Svecias\Desktop\Kursai\KlasesSarasas\KlasesSarasas\obj\Debug\KlasesSarasas.Skaiciavimai.resources

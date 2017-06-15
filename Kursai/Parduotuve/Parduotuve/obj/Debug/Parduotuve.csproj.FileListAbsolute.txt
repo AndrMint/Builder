@@ -1,0 +1,2 @@
+C:\Users\Svecias\Desktop\Kursai\Parduotuve\Parduotuve\bin\Debug\Parduotuve.exe.config
+C:\Users\Svecias\Desktop\Kursai\Parduotuve\Parduotuve\obj\Debug\Parduotuve.csprojResolveAssemblyReference.cache
